@@ -5,13 +5,13 @@
   "keywords": [
     "npm scripts",
     "ejs",
-    "cssnext",
     "sass",
     "scss",
     "neat",
     "es6",
     "babel",
-    "browserify"
+    "browserify",
+    "browser-sync"
   ],
   "author": "Taiyo Totsuka <ttaiyo@me.com>",
   "license": "MIT",
