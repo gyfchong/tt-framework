@@ -1,0 +1,9 @@
+h1 {
+	color: var(--mainColor);
+
+	@media (--s) {
+		color: blue;
+	}
+
+	@apply --clearfix;
+}

@@ -1,0 +1,5 @@
+dist/*
+src/assets/js/debug*
+src/assets/js/libs*
+src/assets/js/plugins*
+src/assets/js/development/_prism.js

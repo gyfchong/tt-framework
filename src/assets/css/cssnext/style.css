@@ -1,0 +1,14 @@
+@import "normalize.css";
+@import "boilerplate";
+@import "variables";
+@import "apply";
+@import "modules/aaa";
+@import "print";
+
+:root {
+	--mainColor: green;
+}
+
+html {
+	color: var(--mainColors, blue);
+}
